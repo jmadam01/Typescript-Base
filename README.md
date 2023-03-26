@@ -1,2 +1,2 @@
 # Typescript-Base
-A simple base project for using understanding typescript.
+A simple base project for understanding typescript.
